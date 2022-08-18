@@ -2,5 +2,9 @@
 An experimental mod loader for Minecraft: Bedrock Edition
 
 # ❓- Features:
-Aaa <br />
-ab
+✍️ API for creating "mods"<br />
+🔌 Hooking events onto a Discord Webhook
+
+# ❌ - Cons
+
+
