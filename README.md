@@ -1,6 +1,7 @@
-# 🔮 - Krynite
-An experimental mod loader for Minecraft: Bedrock Edition<br />
+## 🔮 - Krynite
+An experimental modding API for Minecraft: Bedrock Edition<br />
 ✖️ WIP ✖️
 
-### ❓- Features:
-✍️ API for creating "mods"<br />
+### ❓- About:
+🍃 - Made in 1.19.20<br />
+📱 - Made on Android through Termux and Acode (which means some things may go wrong!)<br />
